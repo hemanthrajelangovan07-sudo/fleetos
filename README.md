@@ -4,11 +4,6 @@ A full-stack fleet governance and scheduling dashboard built with React. Include
 
 ---
 
-## Screenshots
-
-> Login → Dashboard → Live Telemetry → Vehicles → Schedules → Reports
-
----
 
 ## Features
 
